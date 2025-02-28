@@ -8,4 +8,4 @@ const student = {
 Object.prototype.getKeys = function(){
 	return Object.getKeys(this);
 }
-console.log(student.getKeys();
+console.log(student.getKeys());
